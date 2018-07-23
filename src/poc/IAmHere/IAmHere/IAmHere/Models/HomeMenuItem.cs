@@ -6,6 +6,7 @@ namespace IAmHere.Models
 {
     public enum MenuItemType
     {
+		Panic,
         Browse,
         About
     }

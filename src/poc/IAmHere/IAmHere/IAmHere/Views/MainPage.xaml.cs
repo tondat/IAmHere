@@ -26,7 +26,10 @@ namespace IAmHere.Views
             {
                 switch (id)
                 {
-                    case (int)MenuItemType.Browse:
+					case (int)MenuItemType.Panic:
+						MenuPages.Add(id, new NavigationPage(new PanicPage()));
+						break;
+					case (int)MenuItemType.Browse:
                         MenuPages.Add(id, new NavigationPage(new ItemsPage()));
                         break;
                     case (int)MenuItemType.About:
