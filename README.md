@@ -22,14 +22,16 @@ Tech proposal:
 * Azure
 * MQTT
 * Maps (google map, apple map)
+  - https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/map
+  - https://developer.xamarin.com/samples/xamarin-forms/CustomRenderers/Map/Pin/	
 * Info bars
 * Local storage
 * P2P
 * Social account login
+  - https://docs.microsoft.com/en-us/xamarin/xamarin-forms/data-cloud/authentication/oauth
 
 
 External Links:
 * https://github.com/xamarin/Xamarin.Forms
 * https://docs.microsoft.com/en-us/xamarin/xamarin-forms/
 * https://developer.xamarin.com/samples/xamarin-forms/
-* https://developer.xamarin.com/samples/xamarin-forms/CustomRenderers/Map/Pin/
