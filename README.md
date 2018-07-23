@@ -1,10 +1,10 @@
 # IAmHere
 
-This is a Xamarin.Forms sample app that easily try to administrate people located on a map.
+This is a Xamarin.Forms sample app that lets people easily locate family and friends on a map.
 
 Based on the concept of a family group we can create an account and we can register new users on the family group sharing a QR code.
 
-Child accounts can be created without a login.
+Child accounts can be created without a login. This account won't be able to log out from the app, this should be done from an adult account.
 Adult accounts requires a login to the app.
 
 We have the following modes:
