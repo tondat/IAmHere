@@ -28,7 +28,7 @@ Tech proposal:
 * Local storage
 * P2P
 * Social account login
-  - https://docs.microsoft.com/en-us/xamarin/xamarin-forms/data-cloud/authentication/oauth
+  - https://docs.microsoft.com/en-us/azure/app-service-mobile/app-service-mobile-xamarin-forms-get-started-users
 
 
 External Links:
