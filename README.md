@@ -19,19 +19,34 @@ The main goal is an experiment with Xamarin.Forms using visual studio Xamarin ex
 
 Tech proposal:
 * QR generation/loading
+  - iOS: https://developer.xamarin.com/samples/monotouch/QRchestra/
 * Azure
+  - https://docs.microsoft.com/en-us/xamarin/android/data-cloud/
+  - https://docs.microsoft.com/en-us/xamarin/xamarin-forms/data-cloud/
 * MQTT
+  - https://github.com/xamarin/mqtt
 * Maps (google map, apple map)
   - https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/map
   - https://developer.xamarin.com/samples/xamarin-forms/CustomRenderers/Map/Pin/	
-* Info bars
+* Notifications
+  - https://docs.microsoft.com/en-us/xamarin/android/app-fundamentals/notifications/local-notifications
 * Local storage
+  - https://docs.microsoft.com/en-us/xamarin/android/platform/files/
 * P2P
+  - https://docs.microsoft.com/en-us/xamarin/android/platform/android-beam
 * Social account login
   - https://docs.microsoft.com/en-us/azure/app-service-mobile/app-service-mobile-xamarin-forms-get-started-users
+  - https://docs.microsoft.com/en-us/xamarin/xamarin-forms/data-cloud/authentication/oauth
+* Localization
+  - https://docs.microsoft.com/en-us/xamarin/android/app-fundamentals/localization
+* Scheduler
+  - https://docs.microsoft.com/en-us/xamarin/android/platform/android-job-scheduler
+  - https://docs.microsoft.com/en-us/xamarin/android/platform/firebase-job-dispatcher
 
 
 External Links:
-* https://github.com/xamarin/Xamarin.Forms
+* https://docs.microsoft.com/en-us/xamarin/android/
+* https://docs.microsoft.com/en-us/xamarin/cross-platform/
 * https://docs.microsoft.com/en-us/xamarin/xamarin-forms/
+* https://github.com/xamarin/Xamarin.Forms
 * https://developer.xamarin.com/samples/xamarin-forms/
