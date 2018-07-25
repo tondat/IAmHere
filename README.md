@@ -25,6 +25,8 @@ Tech proposal:
   - https://docs.microsoft.com/en-us/xamarin/xamarin-forms/data-cloud/
 * MQTT
   - https://github.com/xamarin/mqtt
+* Location
+  - https://docs.microsoft.com/en-us/xamarin/android/platform/maps-and-location/location
 * Maps (google map, apple map)
   - https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/map
   - https://developer.xamarin.com/samples/xamarin-forms/CustomRenderers/Map/Pin/	
