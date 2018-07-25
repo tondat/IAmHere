@@ -32,6 +32,7 @@ Tech proposal:
   - https://docs.microsoft.com/en-us/xamarin/android/app-fundamentals/notifications/local-notifications
 * Local storage
   - https://docs.microsoft.com/en-us/xamarin/android/platform/files/
+  - https://docs.microsoft.com/en-us/xamarin/android/platform/content-providers/
 * P2P
   - https://docs.microsoft.com/en-us/xamarin/android/platform/android-beam
 * Social account login
