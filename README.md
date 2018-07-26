@@ -23,6 +23,7 @@ Tech proposal:
 * Azure
   - https://docs.microsoft.com/en-us/xamarin/android/data-cloud/
   - https://docs.microsoft.com/en-us/xamarin/xamarin-forms/data-cloud/
+  - https://docs.microsoft.com/en-us/xamarin/xamarin-forms/data-cloud/cosmosdb/consuming
 * MQTT
   - https://github.com/xamarin/mqtt
 * Location
