@@ -23,11 +23,8 @@ Tech proposal:
 * Azure
   - https://docs.microsoft.com/en-us/xamarin/android/data-cloud/
   - https://docs.microsoft.com/en-us/xamarin/xamarin-forms/data-cloud/
-  - https://docs.microsoft.com/en-us/xamarin/xamarin-forms/data-cloud/cosmosdb/consuming
 * MQTT
   - https://github.com/xamarin/mqtt
-* Location
-  - https://docs.microsoft.com/en-us/xamarin/android/platform/maps-and-location/location
 * Maps (google map, apple map)
   - https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/map
   - https://developer.xamarin.com/samples/xamarin-forms/CustomRenderers/Map/Pin/	
@@ -35,12 +32,10 @@ Tech proposal:
   - https://docs.microsoft.com/en-us/xamarin/android/app-fundamentals/notifications/local-notifications
 * Local storage
   - https://docs.microsoft.com/en-us/xamarin/android/platform/files/
-  - https://docs.microsoft.com/en-us/xamarin/android/platform/content-providers/
 * P2P
   - https://docs.microsoft.com/en-us/xamarin/android/platform/android-beam
 * Social account login
   - https://docs.microsoft.com/en-us/azure/app-service-mobile/app-service-mobile-xamarin-forms-get-started-users
-  - https://docs.microsoft.com/en-us/xamarin/xamarin-forms/data-cloud/authentication/oauth
 * Localization
   - https://docs.microsoft.com/en-us/xamarin/android/app-fundamentals/localization
 * Scheduler
